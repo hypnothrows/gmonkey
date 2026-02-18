@@ -9,7 +9,7 @@ const REPLACEMENTS = {
         'Raven Kiss': ['raven_kiss'],
         'Madison Stone': ['MissMadisonStone', 'missmadisonstone', 'Miss Madison Stone', 'Miss Madison'],
         'Princess Brielle': ['Princess Brielle FinDom FemDom'],
-        'Goddess J': ['Jewish Goddess J Findom Hypn0sis', 'littlefootsiejen', 'LittleFootsieJen', ''],
+        'Goddess J': ['Jewish Goddess J Findom Hypn0sis', 'littlefootsiejen', 'LittleFootsieJen'],
     },
     TITLE: {
         '\'': ['`', '’'],
