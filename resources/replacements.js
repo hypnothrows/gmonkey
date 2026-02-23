@@ -28,6 +28,8 @@ const REPLACEMENTS = {
         'Miss Lace': ['Miss Lovely Lace', 'MissLovelyLace'],
         'Goddess Tina': ['GoddessTina1'],
         'Enigma': ['EnigmaMGF'],
+        'Goddess Victoria': ['Cruel Seductress Victoria'],
+        'Jessica Starling': ['Jessica Starling XXX'],
     },
     TITLE: {
         '\'': ['`', '’'],
