@@ -3,7 +3,7 @@
 const REPLACEMENTS = {
     ARTIST: {
         'Goddess Athalia': 'Goddess Athalia Trance Treats',
-        'Selene Rey': ['SeleneRey', 'selenerey'],
+        'Selene Rey': ['SeleneRey', 'selenerey', 'SeleneRey Demands'],
         'Goddess Alexa': ['iAmGoddessAlexa', 'iamgoddessalexa'],
         'Roxanne Miller': 'RoxanneMiller',
         'Raven Kiss': ['raven_kiss'],
@@ -29,11 +29,21 @@ const REPLACEMENTS = {
         'Goddess Tina': ['GoddessTina1'],
         'Enigma': ['EnigmaMGF'],
         'Goddess Victoria': ['Cruel Seductress Victoria'],
-        'Jessica Starling': ['Jessica Starling XXX'],
+        'Jessica Starling': ['Jessica Starling XXX', 'Mistress Jessica Starling'],
+        'Worship Amanda': ['Goddess Amanda'],
+        'Savannah Siren': ['SavannahxSiren'],
+        'Stella Purr': ['Miss Stella Purr'],
+        'Roxanne Miller': ['The Roxanne Miller', 'RoxanneMiller'],
     },
     TITLE: {
         '\'': ['`', '’'],
         '-': ['–'],
         ' - ': [' ?: ?'],
+        'Step-Mo': ['stepMo', 'StepMo', 'step-Mo'],
+        'Step-So': ['stepSo', 'StepSo', 'step-So'],
+        'Step-Si': ['stepSi', 'StepSi', 'step-Si'],
+        'Step-Da': ['stepDa', 'StepDa', 'step-Da'],
+        'Step-Br': ['stepBr', 'StepBr', 'step-Br'],
+        '': [' 1080p', ' 720p',' 4K'],
     },
 };
