@@ -38,7 +38,7 @@ const REPLACEMENTS = {
     TITLE: {
         '\'': ['`', '’'],
         '-': ['–'],
-        ' - ': [' ?: ?'],
+        ' - ': [' : ', ': ', ' :', ':'],
         'Step-Mo': ['stepMo', 'StepMo', 'step-Mo'],
         'Step-So': ['stepSo', 'StepSo', 'step-So'],
         'Step-Si': ['stepSi', 'StepSi', 'step-Si'],
