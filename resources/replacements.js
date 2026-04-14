@@ -35,6 +35,7 @@ const REPLACEMENTS = {
         'Stella Purr': ['Miss Stella Purr'],
         'Roxanne Miller': ['The Roxanne Miller', 'RoxanneMiller'],
         'Ava Onyx': ['iworshipavaonyx'],
+        'Sienna Foxx': ['Vindictive Vixxen Humiliates You', 'Vindictive Vixxen', 'Mz Sienna Foxx - Fetish Goddess', 'Mz Sienna Foxx', 'MzSiennaFoxx', 'mzsiennafoxx'],
     },
     TITLE: {
         '\'': ['`', '’'],
