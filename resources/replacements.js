@@ -34,6 +34,7 @@ const REPLACEMENTS = {
         'Savannah Siren': ['SavannahxSiren'],
         'Stella Purr': ['Miss Stella Purr'],
         'Roxanne Miller': ['The Roxanne Miller', 'RoxanneMiller'],
+        'Ava Onyx': ['iworshipavaonyx'],
     },
     TITLE: {
         '\'': ['`', '’'],
