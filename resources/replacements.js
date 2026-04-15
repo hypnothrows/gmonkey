@@ -61,7 +61,7 @@ const REPLACEMENTS = {
         'STEP-DA': ['stepDA', 'StepDA', 'step-DA', 'Step-DA'],
         'Step-Br': ['stepBr', 'StepBr', 'step-Br'],
         'STEP-BR': ['stepBR', 'StepBR', 'step-BR', 'Step-BR'],
-        '': [' 1080p', ' 720p',' 4K'],
+        '': [' 1080p', ' 720p',' 4K', ' 4k'],
         ' JOI ': [' Joi ', ' joi '],
     },
 };
