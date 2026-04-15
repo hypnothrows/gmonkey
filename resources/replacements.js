@@ -46,6 +46,7 @@ const REPLACEMENTS = {
         'Lovely Lilith': ['Lovely Lilith\'s Lusty Lair'],
         'Roxanne Miller': ['TheRoxanneMiller'],
         'Alexsis Faye': ['alexsisfaye'],
+        'Goddess Danielle (Queen Deserves)': ['Goddess Danielle', 'Queen Deserves', 'Queendeserves', 'queendeserves'],
     },
     TITLE: {
         '\'': ['`', '’'],
