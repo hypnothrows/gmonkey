@@ -30,7 +30,7 @@ const REPLACEMENTS = {
         'Enigma': ['EnigmaMGF'],
         'Goddess Victoria': ['Cruel Seductress Victoria'],
         'Jessica Starling': ['Jessica Starling XXX', 'Mistress Jessica Starling'],
-        'Worship Amanda': ['Goddess Amanda'],
+        'Worship Amanda': ['Goddess Amanda', 'The Goddess Amanda'],
         'Savannah Siren': ['SavannahxSiren'],
         'Stella Purr': ['Miss Stella Purr'],
         'Roxanne Miller': ['The Roxanne Miller', 'RoxanneMiller'],
