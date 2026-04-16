@@ -47,6 +47,10 @@ const REPLACEMENTS = {
         'Roxanne Miller': ['TheRoxanneMiller'],
         'Alexsis Faye': ['alexsisfaye'],
         'Goddess Danielle (Queen Deserves)': ['Goddess Danielle', 'Queen Deserves', 'Queendeserves', 'queendeserves'],
+        'Kelle Martina': ['Miss Kelle Martina'],
+        'Ama Bentley': ['Spanish Ama Bentley', 'Mental Domme Bentley', 'MENTAL DOMME BENTLEY', 'mentaldommebentley', 'Jessyka Bentley'],
+        'Danielle Maye': ['Danielle Maye XXX'],
+        'Madam Violet': ['Goddess Madam Violet'],
     },
     TITLE: {
         '\'': ['`', '’'],
