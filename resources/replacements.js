@@ -51,6 +51,7 @@ const REPLACEMENTS = {
         'Ama Bentley': ['Spanish Ama Bentley', 'Mental Domme Bentley', 'MENTAL DOMME BENTLEY', 'mentaldommebentley', 'Jessyka Bentley'],
         'Danielle Maye': ['Danielle Maye XXX'],
         'Madam Violet': ['Goddess Madam Violet'],
+        'Goddess Valora': ['Goddess Valoras Femdom POV', 'Goddess_Valora', 'goddess_valora'],
     },
     TITLE: {
         '\'': ['`', '’'],
