@@ -56,7 +56,7 @@ const REPLACEMENTS = {
     TITLE: {
         '\'': ['`', '’'],
         '-': ['–'],
-        ' - ': [' : ', ': ', ' :', ':', '- ', ' -'],
+        ' - ': [' : ', ': ', ' :', ':', ' - ', '- ', ' -'],
         'Step-Mo': ['stepMo', 'StepMo', 'step-Mo'],
         'STEP-MO': ['stepMO', 'StepMO', 'step-MO', 'Step-MO'],
         'Step-So': ['stepSo', 'StepSo', 'step-So'],
