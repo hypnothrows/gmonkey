@@ -53,6 +53,7 @@ const REPLACEMENTS = {
         'Goddess Valora': ['Goddess Valoras Femdom POV', 'Goddess_Valora', 'goddess_valora'],
         'CutieDaisyMay093': ['Cutie Daisy May093'],
         'Cute Jayne': ['Cutejayne'],
+        'Lana del Ray': ['thelanadelrayx', 'The Lana Ray', 'THE LANA RAY', 'lanarayishere', 'lanadelray'],
     },
     TITLE: {
         '\'': ['`', '’'],
